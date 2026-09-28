@@ -1,0 +1,78 @@
+PROJETO GESTÃO INTELIGENTE
+O projeto tem o obejtivo de reunir e exibir oportunidades de emprego em determinada região. 
+Dores observadas para o funcionamento do nosso projeto 
+* Dores como usuário:
+Dificuldade de encontrar vagas compatíveis com seu perfil.
+Muitas vagas espalhadas em diferentes sites e redes sociais.
+Falta de informações claras sobre salário, benefícios, localização e requisitos.
+Exigência de experiência até mesmo para vagas de entrada.
+Processos seletivos demorados e sem retorno ao candidato.
+Dificuldade para montar currículo e apresentar suas competências.
+Falta de orientação sobre entrevistas e desenvolvimento profissional.
+Pessoas que não sabem quais oportunidades existem na própria região.
+Desigualdade de acesso a oportunidades para jovens, pessoas em transição de carreira e grupos com menor acesso a redes profissionais.
+
+* Dores como empresa:
+Dificuldade para encontrar candidatos realmente compatíveis com as vagas.
+Grande volume de currículos pouco aderentes.
+Tempo elevado gasto na triagem.
+Dificuldade de divulgar vagas para públicos específicos ou regionais.
+Falta de informações padronizadas sobre os candidatos.
+Processos de recrutamento fragmentados em diferentes plataformas.
+Dificuldade para alcançar profissionais que ainda não possuem uma rede profissional forte.
+
+* Dores sendo O projeto Gestão inteligente:
+
+Gestão de usuários: necessidade de administrar candidatos, empresas e seus diferentes perfis e permissões.
+Validação das informações: dificuldade em garantir que vagas, empresas e dados dos candidatos sejam verdadeiros e atualizados.
+Grande volume de dados: necessidade de organizar currículos, vagas, candidaturas e informações de forma eficiente.
+Comunicação: necessidade de manter candidatos e empresas informados sobre alterações, candidaturas e processos seletivos.
+Segurança e privacidade: responsabilidade de proteger dados pessoais, currículos e informações das empresas.
+Manutenção da plataforma: necessidade de corrigir erros, atualizar funcionalidades e manter o portal disponível.
+Engajamento dos usuários: desafio de fazer candidatos continuarem utilizando o portal e empresas continuarem publicando vagas.
+Qualidade das vagas: evitar anúncios incompletos, desatualizados, duplicados ou inadequados.
+Monitoramento dos resultados: dificuldade para acompanhar indicadores como número de vagas, candidaturas, usuários ativos e contratações.
+
+Conclusão: Existe uma dificuldade de conexão entre pessoas que buscam oportunidades profissionais e empresas que precisam encontrar talentos. As informações estão dispersas, os processos podem ser pouco transparentes e muitos candidatos têm dificuldade para identificar oportunidades adequadas ao seu perfil.
+O portal surge para centralizar, organizar e facilitar essa conexão, tornando a busca por oportunidades mais acessível e o recrutamento mais eficiente.
+
+Necessidades observadas para o funcionamento do projeto:
+* Necesidades como usuário:
+Ter a segurança que seus dados estão seguros. 
+Ter acesso a vagas de emprego em um único lugar.
+Poder realizar cadastro e criar um perfil profissional.
+Cadastrar e atualizar currículo, formação, experiências e habilidades.
+Encontrar vagas de acordo com área de interesse, localização, salário e modalidade de trabalho.
+Ter informações claras sobre cada oportunidade.
+Poder se candidatar às vagas de forma simples e rápida.
+Acompanhar o status das candidaturas.
+Receber notificações sobre novas oportunidades e atualizações.
+Ter acesso a conteúdos de capacitação profissional, como cursos e dicas para entrevistas.
+Possibilidade de melhorar perfil profissional com as propostas disponíveis no portal.
+Encontrar oportunidades adequadas mesmo sem possuir uma grande rede de contatos profissionais.
+
+* Necessidades como empresa:
+Criar um perfil empresarial.
+Publicar e gerenciar vagas de forma simples.
+Informar requisitos, salário, benefícios, localização e tipo de contratação.
+Receber candidaturas diretamente pela plataforma.
+Encontrar candidatos de acordo com competências, formação e experiência.
+Utilizar filtros para facilitar a seleção dos candidatos.
+Acompanhar o processo seletivo.
+Atualizar, pausar ou encerrar vagas quando necessário.
+Ter acesso a informações organizadas dos candidatos.
+Divulgar oportunidades para públicos específicos e da sua região.
+
+* Necessidades sendo o Projeto Gestão inteligente
+Ter um painel administrativo para controlar a plataforma.
+Gerenciar usuários, empresas, vagas e candidaturas.
+Validar e moderar informações publicadas.
+Identificar e remover vagas falsas, duplicadas ou expiradas.
+Garantir a segurança e privacidade dos dados dos usuários.
+Controlar diferentes níveis de acesso dentro do sistema.
+Monitorar o funcionamento e desempenho do portal.
+Acompanhar indicadores, como número de usuários, vagas publicadas e candidaturas.
+Disponibilizar canais de suporte para usuários e empresas.
+Manter a plataforma atualizada e funcionando corretamente.
+Criar mecanismos para melhorar continuamente a experiência dos usuários e empresas.
+
