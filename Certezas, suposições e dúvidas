@@ -1,0 +1,68 @@
+Certezas, suposições e dúvidas da "Gestão inteligente"
+* Certezas:
+* Para os usuários:
+O usuário poderá criar uma conta e um perfil profissional.
+O usuário poderá cadastrar seu currículo e suas informações profissionais.
+O usuário poderá pesquisar e visualizar vagas disponíveis.
+O usuário poderá se candidatar às oportunidades pela plataforma.
+O sistema deverá apresentar informações claras sobre as vagas.
+
+* Para as empresas
+O site disponibilizará oportunidades disponíveis em determinada região.
+As empresas poderão criar um perfil empresarial.
+As empresas poderão publicar oportunidades de emprego.
+As empresas poderão editar, pausar e encerrar suas vagas.
+As empresas poderão visualizar os candidatos interessados.
+A plataforma deverá facilitar a seleção e organização dos candidatos.
+
+* Para a gestão
+A gestão poderá gerenciar usuários, empresas e vagas.
+As vagas poderão ser analisadas, moderadas e sugeridas.
+O sistema deverá proteger os dados pessoais dos usuários.
+A gestão poderá acompanhar indicadores e informações do portal.
+O sistema deverá possuir mecanismos para evitar vagas falsas, duplicadas ou desatualizadas.
+
+Suposições observadas para o funcionamento do projeto:
+
+* Suposições para usuários/candidatos:
+Os usuários tenham acesso à internet e a um dispositivo para utilizar a plataforma.
+Supõe-se que recomendações de vagas compatíveis com o perfil possam facilitar a busca por emprego.
+Os usuários valorizem a possibilidade de acompanhar suas candidaturas.
+Supõe-se que as empresas contratarão funcionários com as devidas qualificações
+
+* Suposição como empresa:
+Que as empresas tenham interesse em utilizar uma plataforma para divulgar suas vagas.
+Supõe-se que as empresas estejam dispostas a cadastrar informações e requisitos das oportunidades.
+Propomos filtros por experiência, formação, localização e habilidades sejam úteis para os recrutadores.
+Supõe-se que empresas retornem à plataforma caso tenham uma experiência positiva no processo de contratação.
+
+* Suposição como projeto Gestão inteligente:
+Supõe-se que será necessário manter uma equipe responsável pela administração do portal.
+Supõe-se que haverá necessdade de moderação das vagas e dos perfis cadastrados.
+Supõe-se que o volume de usuários e oportunidades possa crescer ao longo do tempo.
+Supõe-se que a plataforma precisará de manutenção e atualizações contínuas.
+Supõe-se que será necessário acompanhar indicadores para avaliar o desempenho do projeto.
+Supõe-se que existam recursos suficientes para manter a infraestrutura, segurança e suporte da plataforma.
+
+Dúvidas analisadas para o funcionamento do projeto:
+
+* Dúvida como usuário
+Não sabemos se os usuários vão preferir utilizar nosso portal em vez de outros sites e aplicativos de emprego.
+Se os usuários vão confiar em cadastrar seus dados pessoais na plataforma.
+Não sabemos se as recomendações de vagas realmente vão ajudar os candidatos a encontrar oportunidades melhores.
+Não temos certeza se os usuários vão acompanhar suas candidaturas pelo portal.
+Não sabemos se os usuários vão utilizar recursos extras, como cursos, dicas e capacitações.
+
+* Dúvida como empresa
+Não sabemos se as empresas vão aderir à plataforma e publicar suas vagas.
+Não temos certeza se as empresas vão considerar os candidatos encontrados pelo portal adequados às suas necessidades.
+Não sabemos se o sistema de filtros realmente vai facilitar o trabalho dos recrutadores.
+Não sabemos se as empresas estarão dispostas a pagar por funcionalidades adicionais.
+
+* Dúvida sendo o projeto Gestão inteligente 
+Não sabemos se conseguiremos evitar completamente vagas falsas ou golpes.
+Se o sistema conseguirá funcionar bem com muitos usuários simultaneamente.
+Não sabemos se os mecanismos de recomendação vão conseguir relacionar corretamente candidatos e vagas.
+Não sabemos qual será a melhor forma de atrair os primeiros usuários e empresas.
+Não sabemos se o portal conseguirá gerar contratações reais em quantidade significativa.
+Não sabemos quais funcionalidades serão mais utilizadas pelos usuários.
